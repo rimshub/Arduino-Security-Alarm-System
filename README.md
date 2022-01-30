@@ -1,4 +1,5 @@
 # Arduino-Security-Alarm-System
+I did this projecr back in December, 2019. It is my first-semester project. I thought I should share it for others' benefit. Here you go! 😀
 Hardware based project with C programming at the back-end. Built with Arduino Mega 2560 and other components, Arduino IDE, and Fritzing.
 
 ![](https://github.com/rimshub/Arduino-Security-Alarm-System/blob/main/Hardware.PNG)
